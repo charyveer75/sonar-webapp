@@ -19,12 +19,9 @@
     <groupId>javax.servlet</groupId>
     <artifactId>javax.servlet-api</artifactId>
     <version>3.0.1</version>
-	</dependency>
-    
-    
+	</dependency> 
   </dependencies>
   <distributionManagement>
-
 	    <repository>
 	      <id>nexus</id>
 	      <name>Idexcel Technologies Releases Nexus Repository</name>
